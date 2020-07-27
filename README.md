@@ -1,9 +1,9 @@
-#TASK-MANAGER
+# TASK-MANAGER
 
 Учебный проект в рамках курса JAVA SPING.
 
 
-#Оглавление
+# Оглавление
 
 
 * [Требования к software](#software)
