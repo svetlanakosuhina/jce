@@ -22,13 +22,13 @@
 
 
 
-##Требования к software <a name = "software"> <a/> 
+## Требования к software <a name = "software"> <a/> 
 
   Openjdk version "11"
   
   Apache Maven-3.6.3
   
-##Требования к hardware <a name = "hardware"> <a/> 
+## Требования к hardware <a name = "hardware"> <a/> 
 
 
   CPU i5 / i7
@@ -40,19 +40,19 @@
   SSD 40GB 
   
 
-##Описание стека технологий <a name = "стек_технологий"> <a/>
+## Описание стека технологий <a name = "стек_технологий"> <a/>
 
   Java 
   
   Apache Maven
 
-##Разработчик <a name = "разработчик"> <a/>
+## Разработчик <a name = "разработчик"> <a/>
 
    Светлана Косухина
    
    e-mail <lana__svet@list.ru>  
 
-##Команда для сборки приложения <a name = "сборка приложения"> <a/>
+## Команда для сборки приложения <a name = "сборка приложения"> <a/>
 
   mvn package
 
